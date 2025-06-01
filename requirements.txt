@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+google-api-python-client
+google-auth
+langchain
+langchain-community
+requests
