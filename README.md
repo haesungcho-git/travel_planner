@@ -87,4 +87,7 @@ travel_planner/
 4. GitHub gist으로 마크다운 문서 링크 공유
 ![alt text](/screenshots/image-3.png)
 
+5. 구글캘린더 등록 된 화면
+![alt text](/screenshots/image-4.png)
+
 url : https://gist.github.com/haesungcho-git/57b42638fd6f4086f3b3e6880bbc17a6
